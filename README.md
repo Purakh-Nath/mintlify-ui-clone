@@ -8,7 +8,7 @@ overall visual appearance of the original website as closely as possible using
 only HTML and CSS.
 
 ## Live Demo
-
+Check out the live project: [Mintlify UI Clone](https://purakh-nath.github.io/mintlify-ui-clone/)
 
 ---
 
